@@ -152,25 +152,11 @@ footer {
   }
 
   .post-thumbnail {
-      width: 30% !important;
-      max-width: 100% !important;
-      min-height: 11rem !important;
-      background-size: contain !important;
-      background-position: center center !important;
-  }
-  
-  /* Reduce background size on larger screens */
-  @media (min-width: 1024px) {
-    .post-thumbnail {
-      background-size: 100% auto;
-    }
-  }
-  
-  /* Increase background size on smaller screens */
-  @media (max-width: 767px) {
-    .post-thumbnail {
-      background-size: cover;
-    }
+    width: 30%;
+    max-width: 100%;
+    min-height: 11rem;
+    background-size: cover;
+    background-position: 50% 50%;
   }
 
   .post-content {
