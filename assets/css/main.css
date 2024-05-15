@@ -1138,10 +1138,11 @@ footer .copyright {
 
 .post .post-thumbnail {
   width: 30%;
-  height: 200px; /* Set a fixed height or manage via media queries */
-  background-size: contain;
-  background-position: center center;
-  background-repeat: no-repeat;
+  max-width: 100%;
+  min-height: 11rem;
+  background-size: cover; /* Cover the entire area; adjust as needed */
+  background-repeat: no-repeat; /* Prevent repeating the background image */
+  background-position: center; /* Center the background image */
 }
 
 .post .post-content {
