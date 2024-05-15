@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Psychology Behind Social Engineering Attacks
-date: 2024-05-15 1:00:00 +0000
+date: 2024-05-13 10:00:00 +0000
 description: Social engineering exploits more than just security systems – it manipulates human psychology. Explore how social engineers use psychological tactics to breach even the most secure environments.
 img: social-engineering.jpg # Assuming you have an image named 'social-engineering.jpg' in your assets/img directory
 fig-caption: "Social Engineering Tactics" # This is optional
