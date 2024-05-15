@@ -6,16 +6,12 @@ layout: default
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <!-- Ensures the link goes to the main GitHub Pages site root -->
-        <a href="{{ site.url }}">
-          <!-- Correctly sources the image based on the author-img variable -->
-          <img src="{{ '/images/' | append: site.author-img | relative_url }}" alt="{{ site.author }}">
-        </a>
+        <a href="{{site}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
-      <div class="author-name">{{ site.author }}</div>
-      <p>{{ site.about-author }}</p>
+      <div class="author-name">{{site.author}}</div>
+      <p>{{site.about-author}}</p>
     </div>
-  </header>
+  </header> <!-- End Header -->
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
