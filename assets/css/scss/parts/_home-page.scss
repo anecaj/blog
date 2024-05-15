@@ -155,8 +155,9 @@ footer {
     width: 30%;
     max-width: 100%;
     min-height: 11rem;
-    background-size: cover;
-    background-position: 50% 50%;
+    background-size: contain; /* Ensures the entire image is visible */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
   }
 
   .post-content {
