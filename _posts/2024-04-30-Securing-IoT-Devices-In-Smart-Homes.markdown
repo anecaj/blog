@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Securing IoT Devices in Smart Homes
-date: 2024-05-06 00:00:00 +0300
+date: 2024-04-30 00:00:00 +0300
 description: This post delves into the critical aspects of securing Internet of Things (IoT) devices within smart homes, emphasizing lightweight authentication strategies tailored for resource-constrained environments. # Add post description (optional)
 img: iot-security.jpg # Add image post (optional)
 tags: [IoT, Security, Smart Homes] # add tag

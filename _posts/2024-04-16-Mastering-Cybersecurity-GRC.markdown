@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering Cybersecurity GRC: Strategies for Robust Digital Governance
+title: Mastering Cybersecurity GRC
 date: 2024-04-16 08:00:00 +0000
 description: Dive deep into the integration of Governance, Risk, and Compliance frameworks in cybersecurity, highlighting their crucial role in fortifying an organization's digital defenses and aligning security strategies with business objectives.
 img: cybersecurity-grc.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Securing Health: Cybersecurity Strategies in the Healthcare Sector
+title: Cybersecurity Strategies in the Healthcare Sector
 date: 2024-04-23 08:00:00 +0000
 description: Explore the unique challenges and strategic measures vital for enhancing cybersecurity in the healthcare industry, emphasizing the importance of protecting sensitive patient data against cyber threats.
 img: healthcare-security.jpg
