@@ -41,6 +41,6 @@ Awareness and education are the primary defenses against social engineering. Reg
 
 Organizations should also enforce strict security protocols for handling sensitive information, including multi-factor authentication, rigorous access controls, and detailed logs of security-related events, which can help identify and mitigate these attacks.
 
-![Psychology of Social Engineering]({{site.baseurl}}/assets/img/social-engineering.jpg)
+<!-- ![Psychology of Social Engineering]({{site.baseurl}}/assets/img/social-engineering.jpg) -->
 
 In conclusion, defending against social engineering requires a deep understanding of human psychology and continuous vigilance. As technology evolves, so do the tactics used by cyber criminals, making it imperative that individuals and organizations remain aware of the methods these attackers might use to gain unauthorized access or information.
