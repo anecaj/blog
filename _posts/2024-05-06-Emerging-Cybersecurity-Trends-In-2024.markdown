@@ -35,7 +35,7 @@ Ransomware attacks have become more sophisticated, with attackers targeting crit
 - **Robust Backup Solutions**: Regular backups and real-time replication can minimize the damage caused by ransomware.
 - **Layered Defense Strategies**: Employing a multi-layered security approach to detect and isolate threats before they spread.
 
-![Cybersecurity Trends 2024]({{site.baseurl}}/assets/img/cybersecurity-trends-2024.jpg)
+<!-- ![Cybersecurity Trends 2024]({{site.baseurl}}/assets/img/cybersecurity-trends-2024.jpg) -->
 
 In conclusion, as cybersecurity technologies evolve, so do the tactics of cybercriminals. Staying informed about these trends is crucial for anyone involved in technology and security. The future of cybersecurity will likely see increased integration of AI, the adoption of quantum-resistant encryption, and continued efforts to mitigate the damage caused by ransomware.
 
