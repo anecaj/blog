@@ -152,12 +152,27 @@ footer {
   }
 
   .post-thumbnail {
-    width: 30%;
-    max-width: 100%;
+    width: 30%; /* Adjust based on layout */
     min-height: 11rem;
-    background-size: contain; /* Ensures the entire image is visible */
-    background-position: center; /* Centers the background image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
+    max-height: 200px; /* Example max height */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  /* Adjustments for larger screens */
+  @media (min-width: 768px) {
+    .post-thumbnail {
+      background-size: contain; /* Changes to contain on larger screens */
+    }
+  }
+  
+  /* Adjustments for smaller screens */
+  @media (max-width: 767px) {
+    .post-thumbnail {
+      width: 100%; /* Full width on small screens */
+      min-height: 8rem; /* Smaller height on small screens */
+    }
   }
 
   .post-content {
