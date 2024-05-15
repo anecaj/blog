@@ -152,26 +152,24 @@ footer {
   }
 
   .post-thumbnail {
-    width: 30%; /* Adjust based on layout */
-    min-height: 11rem;
-    max-height: 200px; /* Example max height */
-    background-size: cover;
+    width: 30%;
+    height: 176px;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
   }
   
-  /* Adjustments for larger screens */
-  @media (min-width: 768px) {
+  /* Reduce background size on larger screens */
+  @media (min-width: 1024px) {
     .post-thumbnail {
-      background-size: contain; /* Changes to contain on larger screens */
+      background-size: 100% auto;
     }
   }
   
-  /* Adjustments for smaller screens */
+  /* Increase background size on smaller screens */
   @media (max-width: 767px) {
     .post-thumbnail {
-      width: 100%; /* Full width on small screens */
-      min-height: 8rem; /* Smaller height on small screens */
+      background-size: cover;
     }
   }
 
