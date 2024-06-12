@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mark Zuckerberg's Attempt to Crack Snapchat's Encrypted Data: A Case Study in Competitive Practices
+title: Mark Zuckerberg's Attempt to Crack Snapchat's Encrypted Data A Case Study in Competitive Practices
 date: 2024-05-20 10:00:00 +0000
 description: Recent court documents reveal Mark Zuckerberg's directive to Meta executives to crack Snapchat's encrypted data, raising significant ethical and legal questions.
 img: zuckerberg-snapchat.jpg
