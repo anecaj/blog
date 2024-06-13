@@ -3,7 +3,7 @@ layout: post
 title: Mark Zuckerberg's Attempt to Crack Snapchat's Encrypted Data A Case Study in Competitive Practices
 date: 2024-05-20 10:00:00 +0000
 description: Recent court documents reveal Mark Zuckerberg's directive to Meta executives to crack Snapchat's encrypted data, raising significant ethical and legal questions.
-img: zuckerberg-snapchat.jpg
+img: zuckerberg.jpg
 fig-caption: "Mark Zuckerberg and the Snapchat Incident"
 tags: [Cybersecurity, Data Privacy, Corporate Ethics]
 ---
@@ -15,6 +15,8 @@ In the highly competitive world of social media, companies often go to great len
 The directive from Zuckerberg came at a time when Facebook was feeling the heat from a rapidly growing Snapchat, which had not yet gone public. In an email to Javier Olivan, then Facebook's head of growth, and two other executives, Zuckerberg emphasized the need to gather reliable analytics on Snapchat's traffic, which was encrypted. He suggested that the team might need to create custom software or use alternative methods to bypass the encryption.
 
 "Whenever someone asks a question about Snapchat, the answer is usually that because their traffic is encrypted we have no analytics about them," Zuckerberg wrote. "Given how quickly they’re growing, it seems important to figure out a new way to get reliable analytics about them."
+
+![Middle Image Caption](/assets/img/zuckerberg-snapchat.jpg)
 
 ### The "Ghostbusters" Project
 
