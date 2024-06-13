@@ -16,7 +16,7 @@ The directive from Zuckerberg came at a time when Facebook was feeling the heat 
 
 "Whenever someone asks a question about Snapchat, the answer is usually that because their traffic is encrypted we have no analytics about them," Zuckerberg wrote. "Given how quickly they’re growing, it seems important to figure out a new way to get reliable analytics about them."
 
-![Email Leak]({{ site.baseurl }}/img/zuckerberg-snapchat.jpg "Email Leak")
+![Email Leak]({{ site.baseurl }}/assets/img/zuckerberg-snapchat.jpg "Email Leak")
 
 ### The "Ghostbusters" Project
 
